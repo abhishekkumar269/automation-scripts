@@ -16,10 +16,10 @@
 📂 Structure
 
     automation-scripts/
-        │── rename_files.py  
-        │── image_downloader.py  
-        │── csv_cleaner.py  
-        │── auto_backup.py  
+        │── rename_files.py              # Batch rename files based on pattern
+        │── image_downloader.py          # Download images from list of URLs
+        │── csv_cleaner.py               # Clean & normalize CSV columns
+        │── auto_backup.py               # Backup folder -> zip with timestamp
         │── README.md  
 
 
