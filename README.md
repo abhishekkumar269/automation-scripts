@@ -7,31 +7,29 @@
     Each script focuses on improving productivity, testing scraping setups, and reducing manual effort.
 
 ⚙️ Features
+    
+    --Task-based automation (file handling, API calls, scraping helpers, etc.)
+    --Clean, reusable Python code with comments
+    --Ready to integrate in bigger projects
+    --Lightweight and easy to modify
 
-Task-based automation (file handling, API calls, scraping helpers, etc.)
+📂 Structure
 
-    Clean, reusable Python code with comments
-
-    Ready to integrate in bigger projects
-
-    Lightweight and easy to modify
-
-
-
-automation-scripts/
-    │── rename_files.py  
-    │── image_downloader.py  
-    │── csv_cleaner.py  
-    │── auto_backup.py  
-    │── README.md  
+    automation-scripts/
+        │── rename_files.py  
+        │── image_downloader.py  
+        │── csv_cleaner.py  
+        │── auto_backup.py  
+        │── README.md  
 
 
 🧠 Purpose
-
-Created for personal workflow automation during data scraping and project testing phases.
-Will be expanded and optimized later once client and scraping work stabilize.
+    
+    Created for personal workflow automation during data scraping and project testing phases.
+    Will be expanded and optimized later once client and scraping work stabilize.
 
 🧑‍💻 Author
 
 Abhishek Kumar
+
 Part of web-scraping-portfolio
