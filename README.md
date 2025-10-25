@@ -20,6 +20,7 @@
         │── image_downloader.py          # Download images from list of URLs
         │── csv_cleaner.py               # Clean & normalize CSV columns
         │── auto_backup.py               # Backup folder -> zip with timestamp
+        │── oneclick-setup.md            # open 1-click office all things
         │── README.md  
 
 
